@@ -43,6 +43,21 @@ golang.org/x/text/unicode/bidi
 golang.org/x/text/unicode/norm
 # golang.org/x/time v0.0.0-20181108054448-85acf8d2951c
 golang.org/x/time/rate
+# golang.org/x/tools v0.0.0-20190621195816-6e04913cbbac
+golang.org/x/tools/go/analysis
+golang.org/x/tools/go/analysis/internal/analysisflags
+golang.org/x/tools/go/analysis/internal/checker
+golang.org/x/tools/go/analysis/internal/facts
+golang.org/x/tools/go/analysis/multichecker
+golang.org/x/tools/go/analysis/unitchecker
+golang.org/x/tools/go/gcexportdata
+golang.org/x/tools/go/internal/gcimporter
+golang.org/x/tools/go/internal/packagesdriver
+golang.org/x/tools/go/packages
+golang.org/x/tools/go/types/objectpath
+golang.org/x/tools/internal/fastwalk
+golang.org/x/tools/internal/gopathwalk
+golang.org/x/tools/internal/semver
 # google.golang.org/appengine v1.5.0
 google.golang.org/appengine/internal
 google.golang.org/appengine/internal/base
@@ -110,8 +125,6 @@ k8s.io/client-go/util/connrotation
 k8s.io/client-go/util/flowcontrol
 k8s.io/client-go/util/homedir
 k8s.io/client-go/util/keyutil
-# k8s.io/component-base v0.0.0-20190831075413-37a093468564
-k8s.io/component-base/cli/flag
 # k8s.io/klog v0.4.0
 k8s.io/klog
 # k8s.io/kubectl v0.0.0-20190831163037-3b58a944563f

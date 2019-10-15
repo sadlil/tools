@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/sadlil/tools/pkg/multikubectl/cmd"
+	"github.com/sadlil/tools/pkg/kubectl/cmd"
 	"k8s.io/kubectl/pkg/util/logs"
 )
 
